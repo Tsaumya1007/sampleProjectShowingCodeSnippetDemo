@@ -14,8 +14,6 @@ const App = () => {
     <div>
       <h2>Code Snippet Example</h2>
       <CodeSnippet language="javascript" code={sampleCode} />
-      <h2>Code Snippet Example</h2>
-      <CodeSnippett language="javascript" code={sampleCode} />
       <h2>API Data in Code Snippet</h2>
       <CodeSnippetWithAPI url="https://jsonplaceholder.typicode.com/todos/1" />
     </div>
